@@ -12,7 +12,7 @@ about:
   icon: https://avatars.githubusercontent.com/u/3299148?v=4
 source:
   project: https://github.com/awslabs/mcp
-  commit: 8f8460d377c692b27764daf20dfc3510706f98ca
+  commit: d33705e0890e8cf39aa42eeee7b45d6a6e088112
   directory: src/aws-diagram-mcp-server
 run:
   volumes:
